@@ -69,6 +69,7 @@ go run port_scanner.go
 
 ## Planned Features / Ideas
 
+- Making it a easy-to-run program (not having tk have the exact code file)
 - Concurrency (faster scanning using goroutines)  
 - CLI flags for host, port range, and timeout  
 - Output formatting (JSON, CSV)  
