@@ -1,10 +1,10 @@
-# Go Port Scanner
+# NetNip
 
 ![Go](https://img.shields.io/badge/Go-1.18%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/status-early%20stage-lightgrey)
 
-A lightweight and easy-to-understand **TCP port scanner** written in Go. Perfect for learning networking, concurrency, and systems programming basics.
+**NetNip** is a lightweight and easy-to-understand **TCP port scanner** written in Go. Perfect for learning networking, concurrency, and systems programming basics.
 
 ---
 
@@ -23,7 +23,7 @@ A lightweight and easy-to-understand **TCP port scanner** written in Go. Perfect
 - Learn how TCP port scanning works  
 - Identify which services are running on a local or remote host  
 - System administration and port auditing  
-- Security testing 
+- Security testing  
 - Penetration testing basics and ethical hacking  
 - Build your understanding of networking and Go's `net` package  
 
@@ -63,17 +63,17 @@ This tool is strictly for:
 
 ### Run It
 
-```bash
+````bash
 go run port_scanner.go
-```
+````
 
 ## Planned Features / Ideas
 
-- [ ] Concurrency (faster scanning using goroutines)  
-- [ ] CLI flags for host, port range, and timeout  
-- [ ] Output formatting (JSON, CSV)  
-- [ ] Service detection on common ports  
-- [ ] Optional UDP scanning (advanced)  
+- Concurrency (faster scanning using goroutines)  
+- CLI flags for host, port range, and timeout  
+- Output formatting (JSON, CSV)  
+- Service detection on common ports  
+- Optional UDP scanning (advanced)  
 
 ---
 
@@ -93,6 +93,8 @@ This is a simple educational project and **should not be used maliciously**. The
 
 Pull requests are welcome! If you have ideas to improve this tool or want to practice contributing to open-source Go projects, feel free to **fork** and submit a **PR**.
 
+---
+
 ## ChatGPT
 
-This README.md was made using ChatGPT. I have re-read it to make sure that all of the information is correct, but there still may be some issues. If you come across any, feel free to contribute.
+This `README.md` was created using ChatGPT. It has been reviewed for accuracy, but if you find any issues or have improvements, feel free to contribute.
