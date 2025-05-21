@@ -92,3 +92,7 @@ This is a simple educational project and **should not be used maliciously**. The
 ## Contributing
 
 Pull requests are welcome! If you have ideas to improve this tool or want to practice contributing to open-source Go projects, feel free to **fork** and submit a **PR**.
+
+## ChatGPT
+
+This README.md was made using ChatGPT. I have re-read it to make sure that all of the information is correct, but there still may be some issues. If you come across any, feel free to contribute.
