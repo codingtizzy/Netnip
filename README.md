@@ -23,7 +23,7 @@ A lightweight and easy-to-understand **TCP port scanner** written in Go. Perfect
 - Learn how TCP port scanning works  
 - Identify which services are running on a local or remote host  
 - System administration and port auditing  
-- Security testing (with permission)  
+- Security testing 
 - Penetration testing basics and ethical hacking  
 - Build your understanding of networking and Go's `net` package  
 
