@@ -92,10 +92,4 @@ This is a simple educational project and **should not be used maliciously**. The
 
 ## Contributing
 
-Pull requests are welcome! If you have ideas to improve this tool or want to practice contributing to open-source Go projects, feel free to **fork** and submit a **PR**.
-
----
-
-## ChatGPT
-
-This `README.md` was created using ChatGPT. It has been reviewed for accuracy, but if you find any issues or have improvements, feel free to contribute.
+Pull requests are welcome! If you have ideas to improve this tool or want to practice contributing to open-source Go projects, feel free to **fork** and submit a **PR**
